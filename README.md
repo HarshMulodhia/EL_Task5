@@ -37,7 +37,7 @@ The dataset (`heart.csv`) includes the following features:
 | Recall        | 1             | 0.977          |
 | F1-score      | 0.978         | 0.977          |
 
-> Values will vary slightly depending on the threshold and train/test split.
+> Values will vary slightly depending on the train/test split.
 
 ## 📊 Visualization
 
