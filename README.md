@@ -31,7 +31,7 @@ The dataset (`heart.csv`) includes the following features:
 ## 📈 Performance
 
 | Metric        | Decision Tree |  Random Forest |	
-|---------------|--------------------------------|
+|---------------|---------------|----------------|
 | Accuracy      | 0.976         | 0.976          |
 | Precision     | 0.957         | 0.977          |
 | Recall        | 1             | 0.977          |
